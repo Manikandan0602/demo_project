@@ -1,5 +1,5 @@
 @Library('pipeline-library-demo')_
 
 stage('demo'){
-    sayVivek()
+    sayVivek('vivek')
 }
