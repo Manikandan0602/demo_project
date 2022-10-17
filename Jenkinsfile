@@ -1,6 +1,5 @@
 @Library('pipeline-library-demo')_
 
 stage('demo'){
-    sayVivek('vivek')
-    sayHello('afrin')
+    simple_maven_java_test()
 }
