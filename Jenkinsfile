@@ -2,4 +2,5 @@
 
 stage('demo'){
     sayVivek('vivek')
+    sayHello('afrin')
 }
